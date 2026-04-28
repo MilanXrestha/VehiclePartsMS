@@ -1,0 +1,17 @@
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.csproj.AssemblyReference.cache
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.AssemblyInfoInputs.cache
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.AssemblyInfo.cs
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Infrastructure.deps.json
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Infrastructure.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Infrastructure.pdb
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Application.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Domain.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Application.pdb
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/bin/Debug/net10.0/VehiclePartsMS.Domain.pdb
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehicleP.C5BBAA65.Up2Date
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/refint/VehiclePartsMS.Infrastructure.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/VehiclePartsMS.Infrastructure.pdb
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Infrastructure/obj/Debug/net10.0/ref/VehiclePartsMS.Infrastructure.dll

@@ -1,0 +1,11 @@
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/bin/Debug/net10.0/VehiclePartsMS.Domain.deps.json
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/bin/Debug/net10.0/VehiclePartsMS.Domain.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/bin/Debug/net10.0/VehiclePartsMS.Domain.pdb
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/VehiclePartsMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/VehiclePartsMS.Domain.AssemblyInfoInputs.cache
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/VehiclePartsMS.Domain.AssemblyInfo.cs
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/VehiclePartsMS.Domain.csproj.CoreCompileInputs.cache
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/VehiclePartsMS.Domain.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/refint/VehiclePartsMS.Domain.dll
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/VehiclePartsMS.Domain.pdb
+/Users/milanshrestha/Downloads/Milan Shrestha/VehiclePartsMS.Domain/obj/Debug/net10.0/ref/VehiclePartsMS.Domain.dll

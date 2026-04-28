@@ -1,0 +1,10 @@
+@VehiclePartsMS_HostAddress = http://localhost:5147
+
+### Get all vendors
+GET {{VehiclePartsMS_HostAddress}}/api/vendors
+
+### Get all parts
+GET {{VehiclePartsMS_HostAddress}}/api/parts
+
+### Get all customers
+GET {{VehiclePartsMS_HostAddress}}/api/customers

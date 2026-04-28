@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VehiclePartsMS.Application/1.0.0": {
+        "dependencies": {
+          "VehiclePartsMS.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VehiclePartsMS.Application.dll": {}
+        }
+      },
+      "VehiclePartsMS.Domain/1.0.0": {
+        "runtime": {
+          "VehiclePartsMS.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehiclePartsMS.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehiclePartsMS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

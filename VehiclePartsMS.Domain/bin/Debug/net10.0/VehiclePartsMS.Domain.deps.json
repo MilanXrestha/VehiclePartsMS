@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VehiclePartsMS.Domain/1.0.0": {
+        "runtime": {
+          "VehiclePartsMS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehiclePartsMS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
